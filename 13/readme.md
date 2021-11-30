@@ -1,6 +1,6 @@
-# CKZiU room reservation system
+# Friend
 
-## _contractor: Jan Kowalski_
+## _contractor: Michał łaszewski_
 ## _principal: Michał Czerwiński_
 
 
