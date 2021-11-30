@@ -1,6 +1,6 @@
 # Friend
 
-## _contractor: Michał łaszewski_
+## _contractor: Michał Łaszewski_
 ## _principal: Michał Czerwiński_
 
 
