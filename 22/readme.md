@@ -1,7 +1,7 @@
-test# museum collection registration system
+# museum collection registration system
 
-## _contractor: Dawid Wasiłek
-## _principal: Michał Czerwiński_
+## contractor: Dawid Wasiłek
+## principal: Michał Czerwiński
 
 
 | dossier version | date | description |
