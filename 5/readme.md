@@ -6,15 +6,11 @@
 
 | dossier version | date | description |
 | ------ | ------ | ------ |
-| 1.0 | 01.12.2021 | none |
+| I just started! | 01.12.2021 | I dunno what I am supposed to do! |
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-The project concerns a system that allows for the booking of all rooms at the Center for Vocational and Continuing Education. On the following streets (in Brodnica): 
-- Mazurska 28 
-- Aleja Leśna 2
-- Karbowska 29
+The project is based on... Whatever the hell I was supposed to do.
 
 ## Data structure
 
