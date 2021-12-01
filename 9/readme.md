@@ -12,10 +12,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-The project concerns a system that allows for the booking of all rooms at the Center for Vocational and Continuing Education. On the following streets (in Brodnica): 
-- Mazurska 28 
-- Aleja Leśna 2
-- Karbowska 29
+Projekt dotyczy systemu, który zarządza planami treningowymi wraz z dietą.
 
 ## Data structure
 
