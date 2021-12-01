@@ -13,9 +13,7 @@
 
 ## Abstract 
 The project concerns a system for finding people's positions in the world: 
-- Mazurska 28 
-- Aleja Leśna 2
-- Karbowska 29
+
 
 ## Data structure
 
