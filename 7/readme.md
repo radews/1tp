@@ -11,7 +11,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-A CKZiU game in which we run a character through the CKZiU school grounds. There will be different skins available for the characters. You will be able to run around the school:
+A CKZiU game in which we run a character through the CKZiU school grounds. There will be different skins available for the characters. You will be able to run around the school: 
 -on Mazurska street
 -on Aleja Leśna
 -on Karbowska street
