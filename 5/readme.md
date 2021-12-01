@@ -21,9 +21,9 @@ The project is based on... Whatever the hell I was supposed to do.
 
 ## Main functionalities
 
-1. relational database based on SQL language
-1. front-end created in JavaScript and CSS technologies
-1. back-end executed in PHP language and auxiliary scripts
+1. Be impolite
+1. Be inefficient
+1. Have a plan to spare anyone it meets
 
 The above functionalities were tested and are working according to their roles.
 
