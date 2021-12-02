@@ -1,4 +1,4 @@
-# Book and e-book recommendations
+
 
 ## _contractor: Wiśniewski konrad
 ## _principal: Michał Czerwiński_
