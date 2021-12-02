@@ -1,4 +1,4 @@
-# CKZiU room reservation system
+# System that allows for processing of signals from sensors.
 
 ## _contractor: Kacper Sontowski_
 ## _principal: Michał Czerwiński_
